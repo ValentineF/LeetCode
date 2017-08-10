@@ -17,7 +17,7 @@ isMatch("aa", "a*") ? true
 isMatch("aa", ".*") ? true
 isMatch("ab", ".*") ? true
 isMatch("aab", "c*a*b") ? true*/
-
+//STL果然666
 class Solution {
 public:
     bool isMatch(string s, string p) {
