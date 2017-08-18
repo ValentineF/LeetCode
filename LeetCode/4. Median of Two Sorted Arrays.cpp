@@ -8,7 +8,7 @@ nums1 = [1, 3]
 nums2 = [2]
 
 The median is 2.0*/
-//模模糊糊应该有N, log n 我还真不知道怎么做
+//模模糊糊应该有N  / log n 我还真不知道怎么做
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
